@@ -1,0 +1,4 @@
+Example
+=======
+
+For testing git
